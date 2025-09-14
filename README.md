@@ -1,5 +1,6 @@
 # Overview
 The Vending Machine plugin allows players to create and manage functional vending machines in Minecraft.
+Dependencies: MetroFare
 # Basic Setup
 Creating a Vending Machine
 <br>

@@ -5,7 +5,7 @@ Dependencies: MetroFare
 Creating a Vending Machine
 <br>
 Place a sign with the following format:
-- Line 1: [jdhbk]
+- Line 1: [jdhbk] (Customizable in Config)
 - Line 2: Your company/store name
 
 # Claiming Ownership

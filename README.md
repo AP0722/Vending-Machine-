@@ -28,10 +28,6 @@ Check the owner of the vending machine you're looking at
 ````
 /jdhbk owner
 ````
-Check the owner of the vending machine you're looking at
-````
-/jdhbk owner
-````
 Remove your ownership from the vending machine
 ````
 /jdhbk deregister

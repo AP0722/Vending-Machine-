@@ -15,6 +15,10 @@ To claim a vending machine:
 
 # Commands
 ## General Commands:
+Aliases of /jdhbk:
+````
+/vnd, /jidouhanbaiki, /vendingm, /jdh
+````
 Claim ownership of the new vending machine you're looking at:
 ````
 /jdhbk register

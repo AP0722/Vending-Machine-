@@ -97,3 +97,5 @@ Set blocks for payment processing
 3. Set appropriate prices for your items
 4. Configure payment blocks with /jdhbk material
 5. Manage your items using the various management commands
+## Reminders
+- Please use the vending machine one by one instead of using multiple of them at one time

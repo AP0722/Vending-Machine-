@@ -99,3 +99,4 @@ Set blocks for payment processing
 5. Manage your items using the various management commands
 ## Reminders
 - Please use the vending machine one by one instead of using multiple of them at one time
+- Purchase after the "success block" disappears or else error may occur.

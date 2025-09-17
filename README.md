@@ -89,7 +89,7 @@ Set blocks for payment processing
 1. Right-click on the vending machine sign
 2. Browse available items in the GUI
 3. Click on an item to purchase it
-4. The system will automatically process payment using the ISRCard system
+4. The system will automatically process payment using the DebitCard system
 5. Receive your item once payment is confirmed
 ## As an owner
 1. Claim the vending machine with /jdhbk register

@@ -11,7 +11,11 @@ Place a sign with the following format:
 # Claiming Ownership
 To claim a vending machine:
 ````
-  /jdhbk register
+/jdhbk register
+````
+Renew config.yml
+````
+/jdhbk update
 ````
 
 # Commands

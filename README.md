@@ -71,6 +71,14 @@ Change an item's price
 ````
 /jdhbk price <slot> <price>
 ````
+Copy a preexisting vending machine
+````
+/jdhbk copy
+````
+Pasting the preexisting vending machine
+````
+/jdhbk paste
+````
 
 ## Configuration
 ![alt text](https://i.imgur.com/vcJB4Iy.png)
@@ -82,6 +90,20 @@ Set blocks for payment processing
 - Success block: Appears when payment is completed
 ````
 /jdhbk material <normal block> <success block>
+````
+
+## Discount
+Add discount to an item
+````
+/jdhbk discount add <slot> <Discount>
+````
+Remove discount to an item
+````
+/jdhbk discount remove <slot>
+````
+Change the discount of an item
+````
+/jdhbk discount change <slot> <Discount>
 ````
 
 # Using the Vending Machine

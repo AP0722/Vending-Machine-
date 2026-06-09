@@ -126,3 +126,4 @@ Change the discount of an item
 ## Reminders
 - Please use the vending machine one by one instead of using multiple of them at one time
 - Purchase after the "success block" disappears or else error may occur.
+- Purchases will be reset after 30 seconds

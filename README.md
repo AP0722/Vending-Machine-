@@ -112,11 +112,16 @@ Change the discount of an item
 
 # Using the Vending Machine
 ## As a customer
+- Card Mode
 1. Right-click on the vending machine sign
 2. Browse available items in the GUI
 3. Click on an item to purchase it
 4. The system will automatically process payment using the DebitCard system
 5. Receive your item once payment is confirmed
+- Cash Mode
+<br>
+![alt text](https://i.imgur.com/FyEknXv.png)
+<br>
 ## As an owner
 1. Claim the vending machine with /jdhbk register
 2. Add items with /jdhbk create while holding the item

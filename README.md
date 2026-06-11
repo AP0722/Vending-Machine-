@@ -1,6 +1,6 @@
 # Overview
 The Vending Machine plugin allows players to create and manage functional vending machines in Minecraft.
-Dependencies: MetroFare
+Dependencies: MetroFare, EssentailsX, Vault
 # Basic Setup
 Creating a Vending Machine
 <br>
@@ -110,6 +110,11 @@ Change the discount of an item
 /jdhbk discount change <slot> <Discount>
 ````
 
+##Cash Mode
+![alt text](https://i.imgur.com/FyEknXv.png)
+<br>
+Clicking the gold nugget can enter cash mode, which customers can pay in EssentialsX balance.
+
 # Using the Vending Machine
 ## As a customer
 - Card Mode
@@ -119,9 +124,10 @@ Change the discount of an item
 4. The system will automatically process payment using the DebitCard system
 5. Receive your item once payment is confirmed
 - Cash Mode
-<br>
-![alt text](https://i.imgur.com/FyEknXv.png)
-<br>
+1. Click the gold nugget item to enter the cash mode.
+2. Browse available items in the GUI
+3. Click on an item to purchase it
+4. Receive your item once payment is confirmed
 ## As an owner
 1. Claim the vending machine with /jdhbk register
 2. Add items with /jdhbk create while holding the item

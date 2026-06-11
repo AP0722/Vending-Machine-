@@ -110,7 +110,7 @@ Change the discount of an item
 /jdhbk discount change <slot> <Discount>
 ````
 
-##Cash Mode
+## Cash Mode
 ![alt text](https://i.imgur.com/FyEknXv.png)
 <br>
 Clicking the gold nugget can enter cash mode, which customers can pay in EssentialsX balance.

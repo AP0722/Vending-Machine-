@@ -83,6 +83,10 @@ Pasting the preexisting vending machine
 ````
 /jdhbk paste
 ````
+Enabling cash mode
+````
+/jdhbk cash
+````
 
 ## Configuration
 ![alt text](https://i.imgur.com/vcJB4Iy.png)
